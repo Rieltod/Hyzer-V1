@@ -15,9 +15,9 @@
 gc1 = ''
 gc2 = ''
 gc3 = ''
-global.linkGC = ['https://chat.whatsapp.com/Jzd9DEVB5nODtNBk1VCNrV', ''] // ganti jadi group lu
-global.owner = ['6285212023766'] // Put your number here //owner eval
-global.kontak = ['6285212023766','082361160044'] //Ketika ada yang ngetik #owner
+global.linkGC = ['https://chat.whatsapp.com/L4wHUhXDZQyIX9d8eDNV76', ''] // ganti jadi group lu
+global.owner = ['6282146218274'] // Put your number here //owner eval
+global.kontak = ['6282146218274','6282146218274'] //Ketika ada yang ngetik #owner
 global.mods = ['6285212023766'] // Want some help?
 global.prems = ['6285212023766'] // Premium user has unlimited limit
 global.APIs = { // API Prefix
@@ -57,20 +57,20 @@ bearkey = 'buy'
 namaig = 'https://instagram.com/shiroo_craziiphat'
 namagithub = 'https://github.com/Hyzerr'
 kasihcaption = `Nih kak`
-namakontak1 = 'Hyzer.'
-namakontak2 = 'Hyzer..'
+namakontak1 = 'RielOfc.'
+namakontak2 = 'RielOfc..'
 
 //kasihcaption = `Nih Kak`
 
 // Sticker WM
-global.packname = 'By ShiroBotz' // ganti aja
+global.packname = 'By RielBotz' // ganti aja
 global.author = 'hehe' // ganti aja
 
 //yyy
 bc = 'ShiroBotz' //ShiroBotz Broadcast
-footer = '\n© Shiro Botz'
-namabot = 'ShiroBotz'
-namalu = 'Hyzer'
+footer = '\n© Riel Botz'
+namabot = 'RielBotz'
+namalu = 'RielOfc'
 
 
 // 
