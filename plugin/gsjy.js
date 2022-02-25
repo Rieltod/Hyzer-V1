@@ -8,7 +8,7 @@ const chats = conn.chats.all()
 const groups = chats.filter(v => v.jid.endsWith('g.us'))
 const defaultMenu = {
   before: `
-┏━━━ꕥ〔 *ShiroBotz* 〕ꕥ━⬣
+┏━━━ꕥ〔 *RielBotz* 〕ꕥ━⬣
 ┃✾ Hai, %name!
 ┃
 ┃✾ Tersisa *%limit Limit*
@@ -242,7 +242,7 @@ let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
         "listMessage": {
           "title": `${ucapan()}, ${name}`.trim(),
           "description": `
-┏━━ꕥ〔 *ShiroBotz* 〕ꕥ━⬣
+┏━━ꕥ〔 *RielBotz* 〕ꕥ━⬣
 ┃✾ Aktif selama ${uptime}
 ┃✾ Baterai ${conn.battery != undefined ? `${conn.battery.value}% ${conn.battery.live ? '🔌 pengisian' : ''}` : 'tidak diketahui'}
 ┃✾ *${Object.keys(global.db.data.users).length}* Pengguna
